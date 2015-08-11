@@ -1,3 +1,3 @@
 # AnsibleVagrant
 
-Bulding vagrant with Ansible
+Bulding vagrant virtual box with Ansible
